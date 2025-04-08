@@ -1,4 +1,4 @@
-# Comparative Analysis of Machine Learning and Deep Learning Techniques for Rainfall Prediction ([Link](https://drive.google.com/file/d/1DkIMeXenqMF87nxPRC7wWX6qzVpodgqG/view?usp=sharing))
+# Comparative Analysis of Machine Learning and Deep Learning Techniques for Rainfall Prediction ([Report Link](https://drive.google.com/file/d/1DkIMeXenqMF87nxPRC7wWX6qzVpodgqG/view?usp=sharing))
 
 ## 📜 Project Description
 This project presents a comprehensive comparative analysis of **Machine Learning (ML)** and **Deep Learning (DL)** techniques for rainfall prediction, focusing on **Mumbai, India**. The study evaluates classical ML models such as Logistic Regression, Decision Tree, Random Forest, and Support Vector Machines (SVM), alongside a Deep Learning-based neural network model (Multilayer Perceptron - MLP).
